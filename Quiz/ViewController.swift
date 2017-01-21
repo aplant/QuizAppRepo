@@ -39,7 +39,6 @@ class ViewController: UIViewController {
         else{
             let answer: String = answers[currentQuestionIndex]
             answerLabel.text = answer
-            answerLabel.text = "haha"
         }
     }
 
